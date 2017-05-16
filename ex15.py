@@ -6,9 +6,9 @@
 # to our Python script when we run it.
 
 from sys import argv
-# Here we 'unpack' the argv so that we assigned to our variable
+# Here we 'unpack' the argv so that we assign it to our variable
 script, filename = argv
-# open -> returns a file object. This is the preferred wway to open a file.
+# open -> returns a file object. This is the preferred way to open a file.
 txt = open(filename)
 
 # Prints the name of the file

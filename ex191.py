@@ -15,3 +15,4 @@ my_friends_ages(first_friend_name, first_friend_age)
 my_friends_ages(second_friend_name, second_friend_age)
 my_friends_ages(third_friend_name, third_friend_age)
 
+
